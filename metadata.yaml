@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 42615-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42615#Blanche-et-Bleue-ou-les-deux-couleuvres-f-es-roman-chinois
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-04-29'
 gutenberg_type: Text
