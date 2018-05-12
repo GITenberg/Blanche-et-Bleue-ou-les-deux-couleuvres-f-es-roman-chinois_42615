@@ -1,0 +1,28 @@
+_repo: Blanche-et-Bleue-ou-les-deux-couleuvres-f-es-roman-chinois_42615
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Julien, Stanislas
+    alias: Julien, Stanislaus
+    birthdate: 1797
+    deathdate: 1873
+    gutenberg_agent_id: '41776'
+    url: http://www.gutenberg.org/2009/agents/41776
+covers:
+- cover_type: archival
+  image_path: 42615-h/images/cover.jpg
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42615'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Translations into French'
+title: Blanche et Bleue ou les deux couleuvres-fées, roman chinois
+url: http://www.gutenberg.org/ebooks/42615
